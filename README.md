@@ -1,4 +1,4 @@
-![LinktreeCLone Website Preview](https://github.com/HoussamCbk/LinktreeClone/blob/main/A%26C%20Aeronautics/preview.png)
+![LinktreeCLone Website Preview](https://github.com/HoussamCbk/A-C-Aeronautics.github.io/preview.png)
 
 # 🔗 Linktree-like Website
 
