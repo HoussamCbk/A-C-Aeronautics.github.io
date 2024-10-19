@@ -17,9 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #9CECFB;  /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #0052D4, #65C7F7, #9CECFB);  /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #0052D4, #65C7F7, #9CECFB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-image: linear-gradient(to right top, #6d1bec, #0064ff, #008bff, #00a9ff, #00c3f8, #23cbf6, #3ad2f4, #4fd9f2, #77d4f8, #98cff6, #b1caee, #c2c7e3);
   font-family: "Nunito", sans-serif;
   margin: 0;
   padding: 0;
