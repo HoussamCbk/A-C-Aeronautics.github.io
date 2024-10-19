@@ -1,4 +1,4 @@
-![LinktreeCLone Website Preview](https://raw.githubusercontent.com/HoussamCbk/LinktreeClone/main/preview.png)
+![LinktreeCLone Website Preview](https://github.com/HoussamCbk/LinktreeClone/main/preview.png)
 
 # 🔗 Linktree-like Website
 
