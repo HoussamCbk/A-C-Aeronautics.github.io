@@ -18,6 +18,7 @@ body {
   justify-content: center;
   align-items: center;
   background: #000000;
+  background-image: url("bg2.jpg");
   font-family: "Nunito", sans-serif;
   margin: 0;
   padding: 0;
@@ -142,9 +143,9 @@ body {
   text-align: center;
   margin-top: 2rem;
   padding: 1rem 0;
-  color: #ffffff;
-  background-color: #000000;
-  border-top: 1px solid #ffffff;
+  color: black;
+  background-color: transparent;
+  border-top: 1px solid #000000;
 }
 
 .footer p {
@@ -159,7 +160,7 @@ body {
 
 /* Style the link */
 .footer a {
-  color: #00b4d8; /* Customize the link color */
+  color: #250792; /* Customize the link color */
   text-decoration: none;
 }
 
